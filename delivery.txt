@@ -1,4 +1,4 @@
 Synthetic sandbox delivery SIM-001
 Requirement: The greeting must read exactly Hello, ORCA.
-Current greeting: Hello, world.
+Current greeting: Hello, ORCA.
 No production data or executable code.
